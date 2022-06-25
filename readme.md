@@ -64,4 +64,4 @@ ANEXO
 En la última petición del paso 34 (añadir el tag title en la modificación del paso 30), dicho paso 34 era "rehacer el merge que hemos deshecho"
 por lo que ha sido justo ahí donde he puesto el tag solicitado.
 
-
+Perdón, olvidé subir los tags y los he subido con el comando *git push --tags* después de haber enviado la práctica.
